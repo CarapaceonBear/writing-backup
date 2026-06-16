@@ -10,10 +10,9 @@ with open(os.path.dirname(__file__) + "\\config.json", "r") as configFile:
 encryptionKey = configData.get("encryption_key")
 backupFolderPath = configData.get("backup_folder")
 
-#MakeBackups.run(backupFolderPath)
+MakeBackups.run(backupFolderPath)
 
-#filePathsList = FilePathFinder.run()
-filePathsList = ["F:\\Actual Documents\\Writing\\novelWriter\\Indigo\\content\\8732746b7cbb4.nwd"]
+filePathsList = FilePathFinder.run()
 
 for filePath in filePathsList:
     try:
