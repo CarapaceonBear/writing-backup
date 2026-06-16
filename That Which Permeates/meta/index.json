@@ -1,0 +1,104 @@
+{
+  "novelWriter.meta": {
+    "version": "0x020802f0",
+    "timestamp": "2026-06-15 20:03:18"
+  },
+  "novelWriter.tagsIndex": {},
+  "novelWriter.itemIndex": {
+    "9b6487f385a35": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "That Which Permeates", "line": 7, "tag": "", "counts": [58, 8, 2]}
+      }
+    },
+    "939ba8e9855e7": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "Characters", "line": 1, "tag": "", "counts": [16327, 2836, 49]}
+      }
+    },
+    "b55e13f3d5ae8": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "Story Notes", "line": 1, "tag": "", "counts": [11777, 2051, 50]}
+      }
+    },
+    "f9aeebd5402bc": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "Setting Notes", "line": 1, "tag": "", "counts": [13386, 2310, 49]}
+      }
+    },
+    "ccd8821207b55": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "The Bystander's Musings", "line": 1, "tag": "", "counts": [5547, 884, 31]}
+      }
+    },
+    "7a4bfcff0cded": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Chapter 1 (contest entry)", "line": 1, "tag": "", "counts": [10905, 2002, 8]}
+      }
+    },
+    "3bbec0230a4cb": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Chapter 1 (second draft)", "line": 1, "tag": "", "counts": [19323, 3543, 11]}
+      }
+    },
+    "541c0c5bc6951": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Chapter 2 (second draft)", "line": 1, "tag": "", "counts": [10008, 1807, 2]}
+      }
+    },
+    "31813804f2771": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Chapter 1 (first draft)", "line": 1, "tag": "", "counts": [21189, 3882, 11]}
+      }
+    },
+    "9f8ed73fb8840": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Chapter 2 (first draft)", "line": 1, "tag": "", "counts": [14803, 2697, 8]}
+      }
+    },
+    "a3ec9e90a074c": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Chapter 3 (first draft)", "line": 1, "tag": "", "counts": [14042, 2573, 4]}
+      }
+    },
+    "109dc7c82572e": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Chapter 4 (first draft)", "line": 1, "tag": "", "counts": [7695, 1384, 7]}
+      }
+    },
+    "ff8e1b7d07b6a": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Chapter 5 (first draft)", "line": 1, "tag": "", "counts": [3127, 557, 3]}
+      }
+    },
+    "505d92be93999": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Chapter 6 (first draft)", "line": 1, "tag": "", "counts": [10915, 1978, 1]}
+      }
+    },
+    "2e7d37eb4d16b": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Chapter 7 (first draft)", "line": 1, "tag": "", "counts": [7071, 1300, 2]}
+      }
+    },
+    "4143c7ddebe33": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Chapter 8 (first draft)", "line": 1, "tag": "", "counts": [15025, 2685, 5]}
+      }
+    },
+    "125567a91524e": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Chapter 9 (first draft)", "line": 1, "tag": "", "counts": [6283, 1174, 3]}
+      }
+    },
+    "16f68d6d71b88": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Chapter 10 (first draft)", "line": 1, "tag": "", "counts": [531, 93, 4]}
+      }
+    },
+    "0f718a6fd85fb": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "First Draft Notes", "line": 1, "tag": "", "counts": [14936, 2612, 37]}
+      }
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "novelWriter.meta": {
+    "version": "0x020802f0",
+    "timestamp": "2026-06-15 20:02:03"
+  },
+  "novelWriter.tagsIndex": {},
+  "novelWriter.itemIndex": {
+    "1de2f6f789b09": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "A Planet All For Me", "line": 7, "tag": "", "counts": [57, 10, 2]}
+      }
+    },
+    "516de7f762d53": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Episode 1 - Landing", "line": 1, "tag": "", "counts": [14212, 2676, 56]},
+        "summary": "Indigo arrives, and struggles with a door."
+      }
+    },
+    "5fefac5626ff1": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Episode 8 - Rebuilding", "line": 1, "tag": "", "counts": [5055, 965, 25]},
+        "summary": "Indigo starts to rebuild."
+      }
+    },
+    "624a286f36b44": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Episode 4 - Deterring the Monkeys", "line": 1, "tag": "", "counts": [13275, 2506, 69]},
+        "summary": "Indigo contends with the monkeys."
+      }
+    },
+    "69e61f3d2208e": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Episode 3 - Expanding the Shelter", "line": 1, "tag": "", "counts": [13007, 2471, 40]},
+        "summary": "Indigo expands her shelter, and starts a fire."
+      }
+    },
+    "9e9edcd91e6f4": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Episode 7 - New Food", "line": 1, "tag": "", "counts": [11962, 2287, 62]},
+        "summary": "Indigo searches for a new food source."
+      }
+    },
+    "b589d4bc3c43b": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Episode 6 - The Storm", "line": 1, "tag": "", "counts": [14368, 2725, 50]},
+        "summary": "Indigo gets caught in a storm."
+      }
+    },
+    "b820bad9f3661": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Episode 2 - Immediate Surroundings", "line": 1, "tag": "", "counts": [14665, 2703, 57]},
+        "summary": "Indigo has a wander, and fixes an alarm."
+      }
+    },
+    "c52a9c654120c": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Episode 5 - Farming", "line": 1, "tag": "", "counts": [13990, 2577, 53]},
+        "summary": "Indigo contends with the field of farming."
+      }
+    },
+    "3ebcc208a58dd": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "Episode List", "line": 1, "tag": "", "counts": [1897, 316, 14]}
+      }
+    },
+    "e9c694cd4e7e3": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "Story Notes", "line": 1, "tag": "", "counts": [1822, 307, 10]}
+      }
+    },
+    "63bf53075b6b9": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "Overview", "line": 1, "tag": "", "counts": [2750, 475, 7]}
+      }
+    },
+    "eea14ca8613b3": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Episode 9 - The Broken Leg", "line": 1, "tag": "", "counts": [6845, 1277, 37]},
+        "summary": "Indigo explores further afield, and has a nasty fall."
+      }
+    },
+    "991314a1622c9": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Episode 10 - Whale Song", "line": 1, "tag": "", "counts": [4254, 809, 25]},
+        "summary": "Indigo recovers from her injury."
+      }
+    },
+    "4a68813a59296": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Episode 11 - Fever", "line": 1, "tag": "", "counts": [228, 42, 1]},
+        "summary": "Indigo\u2019s broken leg gets infected."
+      }
+    },
+    "227266cdf1c27": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Episode 12 - Indigo\u2019s Song", "line": 1, "tag": "", "counts": [207, 35, 2]},
+        "summary": "Indigo finds ways to keep herself entertained in the lander."
+      }
+    },
+    "e3de96ce611cf": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Episode 13 - News From Home", "line": 1, "tag": "", "counts": [241, 49, 1]},
+        "summary": "Indigo recieves a painful message from Earth."
+      }
+    },
+    "0e4452c68df4d": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Episode 14 - Isolation", "line": 1, "tag": "", "counts": [173, 29, 1]},
+        "summary": "Indigo meditates on isolation."
+      }
+    },
+    "c79e40d1544c7": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Episode 15 - Motivation", "line": 1, "tag": "", "counts": [141, 25, 1]},
+        "summary": "Indigo prepares for her trip to find the whales."
+      }
+    },
+    "3d23c43879227": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Episode 16 - Finding the Whales", "line": 1, "tag": "", "counts": [182, 35, 1]},
+        "summary": "Indigo goes in search of the whales."
+      }
+    },
+    "8732746b7cbb4": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "Project organisation", "line": 1, "tag": "", "counts": [9867, 1861, 36]}
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "novelWriter.meta": {
+    "version": "0x020802f0",
+    "timestamp": "2026-06-15 20:02:34"
+  },
+  "novelWriter.tagsIndex": {},
+  "novelWriter.itemIndex": {
+    "7b1f220154441": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "Meltdown", "line": 7, "tag": "", "counts": [46, 6, 2]}
+      }
+    },
+    "da6357e0e1d76": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "Notes", "line": 1, "tag": "", "counts": [6002, 1058, 27]}
+      }
+    }
+  }
+}

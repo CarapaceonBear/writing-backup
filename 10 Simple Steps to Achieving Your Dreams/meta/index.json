@@ -1,0 +1,49 @@
+{
+  "novelWriter.meta": {
+    "version": "0x020802f0",
+    "timestamp": "2026-06-15 20:03:51"
+  },
+  "novelWriter.tagsIndex": {},
+  "novelWriter.itemIndex": {
+    "32480c99d2bf4": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Step 4", "line": 1, "tag": "", "counts": [12533, 2252, 3]},
+        "summary": "Summary of the chapter."
+      }
+    },
+    "35ecce877d574": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Step 2", "line": 1, "tag": "", "counts": [11237, 2064, 6]},
+        "summary": "Summary of the chapter."
+      }
+    },
+    "890fa7eca7a05": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Step 5", "line": 1, "tag": "", "counts": [11395, 2071, 6]},
+        "summary": "Summary of the chapter."
+      }
+    },
+    "96cf111600b17": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "10 Simple Steps to Achieving Your Dreams", "line": 7, "tag": "", "counts": [78, 12, 2]}
+      }
+    },
+    "c0c965590099c": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Step 1", "line": 1, "tag": "", "counts": [26912, 4806, 8]},
+        "summary": "Summary of the chapter."
+      }
+    },
+    "db6e381177f3a": {
+      "T0001": {
+        "meta": {"level": "H2", "title": "Step 3", "line": 1, "tag": "", "counts": [15282, 2746, 7]},
+        "summary": "Summary of the chapter."
+      }
+    },
+    "255c4b71f381c": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "Story notes", "line": 1, "tag": "", "counts": [1553, 263, 6]}
+      }
+    }
+  }
+}
