@@ -9,7 +9,7 @@ makes backups of project folders: current parent folder -> dated folder in speci
 
 def run(backupFolderPath):
     currentDate = datetime.date.today()
-    currentDateString = f"{currentDate.strftime("%Y")}-{currentDate.strftime("%m")}-{currentDate.strftime("%d")}"
+    currentDateString = f"{currentDate.strftime('%Y')}-{currentDate.strftime('%m')}-{currentDate.strftime('%d')}"
     
     parentFolderPath = os.path.abspath(os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir)))
     newBackupFolderPath = backupFolderPath + "\\" + currentDateString

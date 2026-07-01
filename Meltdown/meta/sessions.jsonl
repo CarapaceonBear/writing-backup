@@ -1,3 +1,7 @@
 {"type": "initial", "offset": 0}
 {"type": "record", "start": "2026-03-15 15:33:16", "end": "2026-03-15 16:13:01", "novel": 14, "notes": 0, "cnovel": 93, "cnotes": 0, "idle": 2363}
 {"type": "record", "start": "2026-03-27 23:06:18", "end": "2026-03-28 00:00:07", "novel": 14, "notes": 1058, "cnovel": 93, "cnotes": 6002, "idle": 2378}
+{"type": "record", "start": "2026-06-24 14:43:17", "end": "2026-06-24 14:57:15", "novel": 302, "notes": 1058, "cnovel": 1521, "cnotes": 6002, "idle": 0}
+{"type": "record", "start": "2026-06-24 22:03:24", "end": "2026-06-24 23:49:16", "novel": 876, "notes": 1058, "cnovel": 4499, "cnotes": 6002, "idle": 3993}
+{"type": "record", "start": "2026-07-01 16:03:54", "end": "2026-07-01 16:07:36", "novel": 876, "notes": 1091, "cnovel": 4499, "cnotes": 6206, "idle": 22}
+{"type": "record", "start": "2026-07-01 16:07:53", "end": "2026-07-01 17:50:34", "novel": 876, "notes": 2201, "cnovel": 4499, "cnotes": 12591, "idle": 1881}
